@@ -73,6 +73,7 @@ is the important file (the emulator as PNO).
 ## U need to copy this file into the PNO folder of Penetrizzel:
 /Penetrizzel/Kernel/PNO ⛧ ls
 chess.pno  clown.pno  wurm.pno
+//TODO not yet available...
 
 ---
 
