@@ -78,6 +78,7 @@ Clown.pno incorporates ClownMDEmu by Clownacy.
 - [LICENCE.txt](./LICENCE.txt)
 - [licence.txt](./licence.txt)
 - [ClownMDEmu License](./clownmdemu-core/LICENCE.txt)
+- [licence.txt](./clownmdemu-core/licence.txt)
 - [Third Party Licenses](./clownmdemu-core/THIRD_PARTY_LICENSES.txt)
 
 All original components remain subject to their respective licenses.
