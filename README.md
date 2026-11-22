@@ -1,5 +1,3 @@
-Writing✓
-
 # 🤡 Clown.pno
 
 **ClownMDEmu packaged as a Penetrizzel Native Object (.pno).**
@@ -12,7 +10,7 @@ Special thanks to **Clownacy** for the marvelous ClownMDEmu\!
 
 ## 🎮 Demo
 
-▶ **Watch TOFU\_Glitch.webm**
+▶ [Watch TOFU_Glitch.webm](./TOFU_Glitch.webm)
 
 ---
 
@@ -73,14 +71,14 @@ Penetrizzel is a work in progress.
 
 ## 📜 Credits & Licensing
 
-Clown.pno incorporates **ClownMDEmu** by Clownacy.
+Clown.pno incorporates ClownMDEmu by Clownacy.
 
-Please refer to the included license files:
+### License files
 
-- `LICENCE.txt`
-- `licence.txt`
-- `clownmdemu-core/LICENCE.txt`
-- `clownmdemu-core/THIRD_PARTY_LICENSES.txt`
+- [LICENCE.txt](./LICENCE.txt)
+- [licence.txt](./licence.txt)
+- [ClownMDEmu License](./clownmdemu-core/LICENCE.txt)
+- [Third Party Licenses](./clownmdemu-core/THIRD_PARTY_LICENSES.txt)
 
 All original components remain subject to their respective licenses.
 
