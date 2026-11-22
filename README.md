@@ -55,7 +55,24 @@ bash
 ./build_clown.sh
 ```
 
-See the script for the required toolchain and build configuration.
+//TODO:
+Build instructions:
+
+#run
+/emulator ⛧ ./build_clown.sh 
+
+
+#This will create this folder + stuff:
+/emulator/build ⛧ ls
+clown.elf  clown.map  clown.pno  include  obj  unresolved.txt
+
+#"clown.pno"
+is the important file (the emulator as PNO).
+
+
+#U need to copy this file into the PNO folder of Penetrizzel:
+/Penetrizzel/Kernel/PNO ⛧ ls
+chess.pno  clown.pno  wurm.pno
 
 ---
 
