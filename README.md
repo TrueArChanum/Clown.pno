@@ -12,6 +12,8 @@ Special thanks to **Clownacy** for the marvelous ClownMDEmu\!
 
 ▶ [Watch TOFU_Glitch.webm](./TOFU_Glitch.webm)
 
+https://github.com/user-attachments/assets/0c475439-f91d-44b9-871f-6d51b6e45994
+
 ---
 
 ## 💾 About Penetrizzel
