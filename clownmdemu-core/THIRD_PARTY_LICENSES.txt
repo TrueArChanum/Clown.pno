@@ -1,0 +1,23 @@
+Third-Party Software Notices
+
+Penetrizzel can optionally include or use the following third-party software:
+
+---------------------------------------------------------------------------
+
+This product includes third‑party software:
+
+- clownmdemu-core; clown68000; clowncommon; clownz80.
+  Licensed under GNU Affero General Public License (AGPL)
+
+- clownresampler.
+  Licensed under the terms of the Zero-Clause BSD licence
+
+  Copyright (c) 2021-2023 Clownacy
+
+---------------------------------------------------------------------------
+
+They are optional emulator components and are not required to build or run the Penetrizzel kernel without emulator functionality.
+
+Their respective copyright notices and licence terms remain applicable to those components.
+
+The full licence text is provided in `/emulator/clownmdemu-core/LICENCE.txt`, and `/emulator/clownmdemu-core/license.txt`
