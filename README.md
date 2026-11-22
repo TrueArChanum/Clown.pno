@@ -8,7 +8,7 @@ Special thanks to **Clownacy** for the marvelous ClownMDEmu\!
 
 ---
 
-## 🎮 Demo
+## 🎮 Demo //NOTE: this is an older video, before the existence of PNO programs.
 
 ▶ [Watch TOFU_Glitch.webm](./TOFU_Glitch.webm)
 
