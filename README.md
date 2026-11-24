@@ -8,11 +8,20 @@ Special thanks to **Clownacy** for the marvelous ClownMDEmu\!
 
 ---
 
-## 🎮 Demo //NOTE: this is an older video, before the existence of PNO programs.
+<details>
+<summary> **Update:** Clownacy has fixed this issue in a newer version. The workaround described below is only relevant to older versions. </summary>
+
+## 🎮 Old Demo //NOTE: this is an older video, before the existence of PNO programs.
 
 ▶ [Watch TOFU_Glitch.webm](./TOFU_Glitch.webm)
 
 https://github.com/user-attachments/assets/0c475439-f91d-44b9-871f-6d51b6e45994
+
+</details>
+
+## 🎮 New Demo with a "fresh" TOFU:
+
+https://github.com/user-attachments/assets/9150336c-2fdf-4247-87b4-70d96c295ca7
 
 ---
 
