@@ -25,37 +25,13 @@ for FILE in "$ROOT/PNO_ABI.h" "$ROOT/PNO_ABI.c" "$ROOT/libc_compat.c" "$ROOT/udi
 done
 
 mkdir -p "$OBJDIR" "$BUILD/include"
-cat > "$BUILD/include/string.h" <<'EOF_STRING'
-#ifndef PNO_STRING_H
-#define PNO_STRING_H
-#include <stddef.h>
-void *memset(void *dst, int value, size_t count);
-void *memcpy(void *dst, const void *src, size_t count);
-void *memmove(void *dst, const void *src, size_t count);
-int memcmp(const void *a, const void *b, size_t count);
-size_t strlen(const char *s);
-int strcmp(const char *a, const char *b);
-#endif
-EOF_STRING
+
 cat > "$BUILD/include/assert.h" <<'EOF_ASSERT'
 #ifndef PNO_ASSERT_H
 #define PNO_ASSERT_H
 #define assert(expression) ((void)0)
 #endif
 EOF_ASSERT
-cat > "$BUILD/include/math.h" <<'EOF_MATH'
-#ifndef PNO_MATH_H
-#define PNO_MATH_H
-double sin(double value);
-double cos(double value);
-#endif
-EOF_MATH
-cat > "$BUILD/include/HD_audio.h" <<'EOF_AUDIO'
-#ifndef PNO_HD_AUDIO_H
-#define PNO_HD_AUDIO_H
-#define HDA_PCM_SAMPLE_RATE_48000 48000u
-#endif
-EOF_AUDIO
 
 CFLAGS=(
     -m32 -std=c99 -ffreestanding -U__unix__ -fno-builtin -fno-stack-protector
