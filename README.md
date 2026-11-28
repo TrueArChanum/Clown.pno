@@ -104,7 +104,7 @@ Clown.pno incorporates ClownMDEmu by Clownacy.
 
 ### License files
 
-- [LICENCE.txt](./LICENCE.txt)
+- [LICENCE.txt](./emulator/LICENCE.txt)
 - [licence.txt](./licence.txt)
 - [ClownMDEmu License](./clownmdemu-core/LICENCE.txt)
 - [licence.txt](./clownmdemu-core/licence.txt)
